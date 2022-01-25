@@ -1,7 +1,7 @@
 # EDEMO-v1
 Run this in cmd using:
 1. django python manage.py runserver
-2. Home page is only designed.
+2. Only home page is designed for now.
 3. Click on login for login page.
 4. Click on register for registration page.
 5. All data that you will enter in the form will get stored inside a text file("auth_data.txt")
